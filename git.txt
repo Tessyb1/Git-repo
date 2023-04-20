@@ -1,2 +1,4 @@
 Hello
-You look pretty
+Welcome to Git & Github revision session.
+Thank you
+
